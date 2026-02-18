@@ -1,0 +1,43 @@
+## 🧰 Tech Stack
+
+Python  
+Pandas  
+Scikit-learn  
+XGBoost  
+SHAP  
+Matplotlib  
+
+
+From Chemical Engineering to Industrial Machine Learning 🚀
+
+During my master’s thesis, I worked on data-driven modeling in process systems.  
+That experience sparked my interest in combining physical understanding with predictive analytics.
+
+Today, I’m expanding that foundation into applied industrial machine learning.
+
+To explore this intersection, I built an end-to-end ML project using the UCI Machine Learning Repository – Gas Turbine CO & NOx Emission dataset.
+
+🎯 Objective:
+Predict NOx emissions and identify operating conditions that minimize emissions without sacrificing energy output.
+
+🔎 Project highlights:
+• Cleaned and validated 36,000+ industrial sensor records  
+• Applied log-transformation to correct skewed emission data  
+• Built a baseline Linear Regression model (R² ≈ 0.53)  
+• Developed a Random Forest model (R² ≈ 0.87)  
+• Applied SHAP for model interpretability  
+• Performed multi-objective optimization (emissions vs energy trade-off)
+
+📊 Key insight:
+NOx formation is strongly non-linear.  
+Ambient Temperature and Turbine Inlet Temperature emerged as dominant drivers — fully aligned with combustion thermodynamics.
+
+Optimization identified operating windows reducing NOx to ~42 mg/m³ while maintaining energy output above plant average.
+
+This project reflects my transition toward leveraging machine learning in industrial energy systems — turning engineering knowledge into intelligent decision-support tools.
+
+I welcome feedback and discussion, especially from professionals working in industrial AI, energy systems, or process optimization.
+
+#MachineLearning #IndustrialAI #EnergySystems #ProcessEngineering #DataScience #Energiewende #GermanyTech
+
+
